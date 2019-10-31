@@ -1,6 +1,6 @@
 import shoppingList from './shopping-list';
 import $ from 'jquery';
-import '../src/styles/index.css';
+import '../styles/index.css';
 
 const main = function() {
   shoppingList.bindEventListeners();
